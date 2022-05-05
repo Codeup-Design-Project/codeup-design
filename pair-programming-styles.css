@@ -7,16 +7,146 @@ body, html {
     padding: 0;
 }
 
-.navbar {
-    background-color: #F0F0F0;
-}
 
 
 .navbar-brand {
-    font-family: Arial;
+    font-family: ;
     margin-right: 30px;
 }
 
 img {
     margin-right: 15px;
+}
+
+.dot1 {
+    height: 100px;
+    width: 100px;
+    background-color: #E6563B;
+    border-radius: 50%;
+    border: 8px solid white;
+    display: inline-flex;
+    color: #F0F0F0;
+    align-items: center;
+    margin-right: 20px;
+    justify-content: center;
+
+}
+
+.dot2 {
+    height: 100px;
+    width: 100px;
+    background-color: #EB9D3A;
+    border-radius: 50%;
+    border: 8px solid white;
+    display: inline-flex;
+    color: #F0F0F0;
+    align-items: center;
+    margin-right: 20px;
+    justify-content: center;
+
+}
+
+.dot3 {
+    height: 100px;
+    width: 100px;
+    background-color: #7CB06C;
+    border-radius: 50%;
+    border: 8px solid white;
+    display: inline-flex;
+    color: #F0F0F0;
+    align-items: center;
+    margin-right: 20px;
+    justify-content: center;
+
+
+}
+
+.dot4 {
+    height: 100px;
+    width: 100px;
+    background-color: #00ABA9;
+    border-radius: 50%;
+    border: 8px solid white;
+    display: inline-flex;
+    color: #F0F0F0;
+    align-items: center;
+    justify-content: center;
+
+}
+
+hr {
+    border-color: ;
+    border-bottom-style: solid;
+    width: 80%;
+    margin: auto;
+
+}
+
+
+
+.smallDot1 {
+    height: 20px;
+    width: 20px;
+    background-color: #E6563B;
+    border-radius: 50%;
+    display: inline-flex;
+    color: black;
+    align-items: center;
+    justify-content: center;
+}
+
+.smallDot2 {
+    height: 20px;
+    width: 20px;
+    background-color: #EB9D3A;
+    border-radius: 50%;
+    display: inline-flex;
+    color: black;
+    align-items: center;
+    justify-content: center;
+}
+
+.smallDot3 {
+    height: 20px;
+    width: 20px;
+    background-color: #7CB06C;
+    border-radius: 50%;
+    display: inline-flex;
+    color: black;
+    align-items: center;
+    justify-content: center;
+}
+
+.smallDot4 {
+    height: 20px;
+    width: 20px;
+    background-color: #00ABA9;
+    border-radius: 50%;
+    display: inline-flex;
+    color: black;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-text {
+    font-size: 12px;
+}
+
+
+.card-img-top {
+    width: 250px;
+    height: 200px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: #E6E6E6;
+}
+
+.card-body {
+    margin-left: 20px;
+}
+
+.card-header {
+    text-align: center;
+    background-color: #F0F0F0;
+    border-bottom: #F0F0F0;
 }

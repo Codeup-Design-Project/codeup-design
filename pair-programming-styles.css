@@ -1,0 +1,22 @@
+
+body, html {
+    background-color: #F0F0F0;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #F0F0F0;
+}
+
+
+.navbar-brand {
+    font-family: Arial;
+    margin-right: 30px;
+}
+
+img {
+    margin-right: 15px;
+}
